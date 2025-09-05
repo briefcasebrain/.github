@@ -25,7 +25,7 @@ Briefcase AI transforms complex knowledge from a guarded fortress into an open c
 - **Smart Routing**: Connecting overwhelming need with untapped capacity
 - **Privacy First**: Differential privacy protecting the sensitive stories entrusted to us
 
-### **The Knowledge Marketplace** *(Launching Q2 2026)*
+### **The Knowledge Marketplace** *(Launching Q4 2025)*
 Building an ecosystem where expertise flows like water—organizations fund impact, communities scale solutions, and contributors earn while they learn.
 
 ## 🛠️ **Quick Start**
@@ -129,8 +129,10 @@ timeline
              : First Cohort Active
              : Impact Validation
     
-    Q1 2026  : Marketplace Launch
-             : 50+ Organizations
+    Q4 2025  : Marketplace Launch
+             : Scale Initiation
+
+    Q1 2026  : 50+ Organizations
              : Scale Initiation
     
     Beyond   : Global Expansion
