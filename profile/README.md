@@ -130,7 +130,7 @@ timeline
              : Impact Validation
     
     Q4 2025  : Marketplace Launch
-             : Scale Initiation
+             : Interactive Environment Simulations
 
     Q1 2026  : 50+ Organizations
              : Scale Initiation
