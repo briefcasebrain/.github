@@ -131,6 +131,7 @@ timeline
     
     Q4 2025  : Marketplace Launch
              : Interactive Environment Simulations
+             : Customizable and Purpose Built Workflows
 
     Q1 2026  : 50+ Organizations
              : Scale Initiation
